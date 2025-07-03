@@ -1,5 +1,7 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/mOQD6B--)
-# Assignment 2
+## CS 5740: Natural Language Processing (Spring 2024)
+This course constitutes an introduction to natural language processing (NLP), the goal of which is to enable computers to use human languages as input, output, or both. NLP is at the heart of many of today’s most exciting technological achievements, including machine translation, automatic conversational assistants and Internet search. The course will introduce core problems and methodologies in NLP, including machine learning, problem design, and evaluation methods.
+
+## Project: Transformer
 
 ## Example commands
 
